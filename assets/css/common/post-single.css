@@ -50,11 +50,13 @@
 
 .post-content h2 {
     margin: 32px auto 24px;
-    font-size: 32px;
+    /*font-size: 32px;*/
+    font-size: 28px;
 }
 
 .post-content h3 {
-    font-size: 24px;
+    /*font-size: 24px;*/
+    font-size: 22px;
 }
 
 .post-content h4 {
